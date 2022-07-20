@@ -1,0 +1,11 @@
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\13\vb\SistemasNumericos2VB\SistemasNumericos2VB\bin\Debug\SistemasNumericos2VB.exe.config
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\13\vb\SistemasNumericos2VB\SistemasNumericos2VB\bin\Debug\SistemasNumericos2VB.exe
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\13\vb\SistemasNumericos2VB\SistemasNumericos2VB\bin\Debug\SistemasNumericos2VB.pdb
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\13\vb\SistemasNumericos2VB\SistemasNumericos2VB\bin\Debug\SistemasNumericos2VB.xml
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\13\vb\SistemasNumericos2VB\SistemasNumericos2VB\obj\Debug\SistemasNumericos2VB.vbprojAssemblyReference.cache
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\13\vb\SistemasNumericos2VB\SistemasNumericos2VB\obj\Debug\SistemasNumericos2VB.frmSistemasNumericosVB.resources
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\13\vb\SistemasNumericos2VB\SistemasNumericos2VB\obj\Debug\SistemasNumericos2VB.Resources.resources
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\13\vb\SistemasNumericos2VB\SistemasNumericos2VB\obj\Debug\SistemasNumericos2VB.vbproj.GenerateResource.cache
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\13\vb\SistemasNumericos2VB\SistemasNumericos2VB\obj\Debug\SistemasNumericos2VB.exe
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\13\vb\SistemasNumericos2VB\SistemasNumericos2VB\obj\Debug\SistemasNumericos2VB.xml
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\13\vb\SistemasNumericos2VB\SistemasNumericos2VB\obj\Debug\SistemasNumericos2VB.pdb
